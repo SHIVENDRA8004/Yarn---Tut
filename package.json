@@ -6,6 +6,7 @@
   "author": "SHIVENDRA8004 <jat13632@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
   }
 }
