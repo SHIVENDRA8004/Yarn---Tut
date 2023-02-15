@@ -6,8 +6,9 @@
   "author": "SHIVENDRA8004 <jat13632@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "gitignore": "^0.7.0",
+    "gulp": "*",
     "lodash": "^4.17.21",
-    "moment": "^2.29.4",
-    "gulp": "*"
+    "moment": "^2.29.4"
   }
 }
