@@ -9,6 +9,7 @@
     "gitignore": "^0.7.0",
     "gulp": "*",
     "lodash": "4.17.21",
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
   }
 }
