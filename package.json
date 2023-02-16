@@ -9,5 +9,8 @@
     "gitignore": "^0.7.0",
     "lodash": "4.17.21",
     "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
   }
 }
