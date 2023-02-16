@@ -8,6 +8,7 @@
   "dependencies": {
     "gitignore": "^0.7.0",
     "gulp": "*",
+    "lodash": "4.17.3",
     "moment": "^2.29.4"
   }
 }
